@@ -1,7 +1,7 @@
 url_v20: https://cti-taxii.mitre.org/taxii/
 url_v21: https://cti-taxii.mitre.org/taxii/
-username: vehere 
-password: vehere@123
+username: yourusername 
+password: yourpassword
 path: /usr/local/etc/ruleengine/
 version: 2.1
 collections:
